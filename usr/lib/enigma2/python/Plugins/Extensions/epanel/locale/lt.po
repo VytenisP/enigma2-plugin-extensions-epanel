@@ -1,0 +1,1578 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: epanel 4bob@ua.fm\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-07-29 01:13+0100\n"
+"PO-Revision-Date: 2016-05-01 16:19+0300\n"
+"Last-Translator: Vytenis P. <vyteniui@gmail.com>\n"
+"Language-Team: Vytenis P. <vyteniui@gmail.com>\n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.7\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
+"%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid " newcamd.list"
+msgstr ""
+
+msgid "%s  %s  %s (%s free  %s used)"
+msgstr "%s  %s  %s (%s laisvos  %s naudojama)"
+
+msgid "%s  %s  (%03d MB free)\n"
+msgstr "%s  %s  (%03d MB  laisvos)\n"
+
+msgid "%s  %s  (%d.%03d GB free)\n"
+msgstr "%s  %s  (%d.%03d GB  laisvos)\n"
+
+msgid "%s downloaded Successfull"
+msgstr "%s atsisiųsta"
+
+msgid "%s downloaded UnSuccessfull"
+msgstr "%s neatsisiųsta"
+
+msgid "%s hours"
+msgstr "%s val."
+
+msgid "%s is UnInstalled"
+msgstr "%s pašalinta"
+
+msgid "%s is downloaded"
+msgstr "%s atsisiųsta"
+
+msgid "%s is installed"
+msgstr "%s įdiegta"
+
+msgid "%s min"
+msgstr "%s min."
+
+msgid "%s.gz created in /tmp"
+msgstr "%s.gz sukurtas /tmp"
+
+msgid "*.tar.gz & *.bh.tgz & *.ipk removed"
+msgstr "*.tar.gz, *.bh.tgz, *.ipk pašalinti"
+
+msgid "120 min"
+msgstr "120 min."
+
+msgid "180 min"
+msgstr "180 min."
+
+msgid "240 min"
+msgstr "240 min."
+
+msgid "30 min"
+msgstr "30 min."
+
+msgid "15 min"
+msgstr "15 min."
+
+msgid "45 min"
+msgstr "45 min."
+
+msgid "60 min"
+msgstr "60 min."
+
+msgid "Active Profile:"
+msgstr "Aktyvus profilis:"
+
+msgid "Active SoftCam:"
+msgstr "Aktyvus emuliatorius:"
+
+msgid "Close"
+msgstr "Uždaryti"
+
+msgid "yes"
+msgstr "taip"
+
+msgid "no"
+msgstr "ne"
+
+msgid "not confirmed"
+msgstr "nepatvirtinta"
+
+msgid "add tabs - %s"
+msgstr "pridėti užduočių - %s"
+
+msgid "Adv. UnInstall"
+msgstr "Išmanus pašalinimas"
+
+msgid "Allready running %s"
+msgstr "%s jau veikia"
+
+msgid "AutoDownload time"
+msgstr "Autoparsiuntimo laikas"
+
+msgid "AutoDownload weekday"
+msgstr "Autoparsiuntimo savaitės diena"
+
+msgid "Autobackup to ../epgtmp.gz"
+msgstr "Autokopijavimas ../epgtmp.gz"
+
+msgid "Automatic save/load EPG"
+msgstr "EPG autoišsaugojimas/įkėlimas"
+
+msgid "Check if epg.dat exists"
+msgstr "Patikrinkite, ar epg.dat egzistuoja"
+
+msgid "Wicardd configpath"
+msgstr "Kelias į Wicardd konfigūracijos failus"
+
+msgid "Mgcamd configfile extention"
+msgstr "MgCamd konfigūracijos failo plėtinys"
+
+msgid "Wicardd config filename"
+msgstr "Wicardd konfigūracijos failo pavadinimas"
+
+msgid "BackUp"
+msgstr "Atsarginė kopija"
+
+msgid "Crashlog viewer"
+msgstr "Lūžių žurnalo peržiūra"
+
+msgid "Add own biss in keyfile"
+msgstr "Pridėti savo biss į rakto failą"
+
+msgid "Angola"
+msgstr "Angola"
+
+msgid "Apply the new System time?"
+msgstr "Taikyti naują sistemos laiką?"
+
+msgid "Applying"
+msgstr "Taikoma..."
+
+msgid "Apr."
+msgstr "Bal"
+
+msgid "Argentina"
+msgstr "Argentina"
+
+msgid "Aug."
+msgstr "Rgp"
+
+msgid "Australia"
+msgstr "Australija"
+
+msgid "Austria"
+msgstr "Austrija"
+
+msgid "AutoDownload epg.dat"
+msgstr "epg.dat autoparsiuntimas"
+
+msgid "Bahamas"
+msgstr "Bahamų salos"
+
+msgid "Bangladesh"
+msgstr "Bangladešas"
+
+msgid "Belarus"
+msgstr "Baltarusija"
+
+msgid "Belgium"
+msgstr "Belgija"
+
+msgid "Brazil"
+msgstr "Brazilija"
+
+msgid "Bulgaria"
+msgstr "Bulgarija"
+
+msgid "Canada"
+msgstr "Kanada"
+
+msgid "Cardserver:"
+msgstr "Kardserveris:"
+
+msgid "Change system time was canceled, because %s"
+msgstr "Sistemos laiko keitimas atšauktas, nes %s"
+
+msgid "Changelog"
+msgstr "Pakeitimų žurnalas"
+
+msgid "Check your internet connection"
+msgstr "Patikrinkite interneto ryšį"
+
+msgid "Check your system and reboot"
+msgstr "Patikrinkite ir paleiskite iš naujo"
+
+msgid "Chile"
+msgstr "Čilė"
+
+msgid "China"
+msgstr "Kinija"
+
+msgid "Clear /tmp"
+msgstr "Išvalyti /tmp"
+
+msgid "Command"
+msgstr "Užduotis"
+
+msgid "Config"
+msgstr "Konfigūracija"
+
+msgid "Config script Executer"
+msgstr "Scenarijų vykdytojo konfigūravimas"
+
+msgid "Cron Manager"
+msgstr "Cron vadovas"
+
+msgid "CtronTab Manager - %s"
+msgstr "Cron vadovas - %s"
+
+msgid "Czech Republic"
+msgstr "Čekijos respublika"
+
+msgid "Day of month"
+msgstr "Mėnesio diena"
+
+msgid "Day of week"
+msgstr "Savaitės diena"
+
+msgid "Dec."
+msgstr "Grd"
+
+msgid "Denmark"
+msgstr "Danija"
+
+msgid "Devices:"
+msgstr "Prietaisai:"
+
+msgid "Download -deps"
+msgstr "Parsisiųsti -deps"
+
+msgid "Download -nodeps"
+msgstr "Parsisiųsti -nodeps"
+
+msgid "Download EPG"
+msgstr "Parsisiųsti EPG"
+
+msgid "EPG from linux-sat.tv/epg-sat.de"
+msgstr "EPG iš linux-sat.tv/epg-sat.de"
+
+msgid "Download extensions from feed"
+msgstr "Parsisiųsti plėtinius"
+
+msgid "Driver Version:"
+msgstr "Tvarkyklės versija:"
+
+msgid "E-Crashlog viewer"
+msgstr "E-lūžių žurnalas"
+
+msgid "E-Installer"
+msgstr "E-diegėjas"
+
+msgid "E-Ipk Installer"
+msgstr "E-IPK diegėjas"
+
+msgid "E-Newcamd.list switcher"
+msgstr "E-newcamd.list perjungimas"
+
+msgid "E-Panel"
+msgstr ""
+
+msgid "E-Panel Config"
+msgstr "E-Panel sąranka"
+
+msgid "E-Panel Menu/Extensionmenu config"
+msgstr "E-Panel meniu ir plėtinių meniu"
+
+msgid "E-Panel for OpenPli"
+msgstr "E-Panel"
+
+msgid "E-Panel for OpenPli Ver:"
+msgstr "E-Panel vers.:"
+
+msgid "E-Panel for Pli"
+msgstr "E-Panel"
+
+msgid "E-Reload epg.dat"
+msgstr "E- įkelti epg.dat iš naujo"
+
+msgid "E-Script Executer"
+msgstr "E-scenarijų vykdytojas"
+
+msgid "E-SoftCam manager"
+msgstr "E-emuliatoriai"
+
+msgid "E-Tar.gz Installer"
+msgstr "E-tar.gz diegėjas"
+
+msgid "E-Unmount USB"
+msgstr "E-atjungti USB"
+
+msgid "E-Wicardd.conf switcher"
+msgstr "E-wicardd.conf perjungimas"
+
+msgid "EPG Downloader"
+msgstr "EPG parsiuntimas"
+
+msgid "EPG downloaded"
+msgstr "EPG parsiųstas"
+
+msgid "Error dowload CardServer list"
+msgstr "Parsiunčiant kardserverių sąrašą, įvyko klaida"
+
+msgid "Error dowload SoftCam list"
+msgstr "Parsiunčiant emuliatorių sąrašą, įvyko klaida"
+
+msgid "Error list ipk aviable"
+msgstr "Galimų IPK sąrašo klaida"
+
+msgid "Ukrainian"
+msgstr "Ukrainiečių"
+
+msgid "Estonia"
+msgstr "Estija"
+
+msgid "Every"
+msgstr "Kiekvienas"
+
+msgid "Failed remove"
+msgstr "Pašalinti nepavyko"
+
+msgid "Feb."
+msgstr "Vas"
+
+msgid "Filter by Name in download extentions"
+msgstr "Parsiunčiamus plėtinius filtruoti pagal pavadinimus"
+
+msgid "Finland"
+msgstr "Suomija"
+
+msgid "Flash:"
+msgstr "Atmintinė:"
+
+msgid "Forced Install"
+msgstr "Priverstinai įdiegti"
+
+msgid "Fr"
+msgstr "Pn"
+
+msgid "France"
+msgstr "Prancūzija"
+
+msgid "Germany"
+msgstr "Vokietija"
+
+msgid "Greece"
+msgstr "Graikija"
+
+msgid "Guatemala"
+msgstr "Gvatemala"
+
+msgid "HDD go sleep"
+msgstr "HDD į miego režimą"
+
+msgid "HDD sleep"
+msgstr "HDD miego režimas"
+
+msgid "Hardware:"
+msgstr "Įranga:"
+
+msgid "Hong Kong"
+msgstr "Honkongas"
+
+msgid "Hour"
+msgstr "Valanda"
+
+msgid "Hungary"
+msgstr "Vengrija"
+
+msgid "IPK Tools"
+msgstr "IPK įrankiai"
+
+msgid "Image:"
+msgstr "Atvaizdas:"
+
+msgid "India"
+msgstr "Indija"
+
+msgid "Indonesia"
+msgstr "Indonezija"
+
+msgid "Insatall extensions from feed"
+msgstr "Plėtinių įdiegimas"
+
+msgid "Install & Remove Plugins, Addons, Softcams"
+msgstr "Įdiegti / pašalinti įskiepius, plėtinius, emuliatorius"
+
+msgid "Install All"
+msgstr "Įdiegti visus"
+
+msgid "Install packets"
+msgstr "Įdiegti paketus"
+
+msgid "Install tar.gz, bh.tgz, nab.tgz"
+msgstr "Įdiegti tar.gz, bh.tgz, nab.tgz"
+
+msgid "Ipk remove"
+msgstr "Šalinti IPK"
+
+msgid "Iran"
+msgstr "Iranas"
+
+msgid "Ireland"
+msgstr "Airija"
+
+msgid "Is a time-based job scheduler"
+msgstr "Laiku pagrįstas užduočių kalendorius"
+
+msgid "Italy"
+msgstr "Italija"
+
+msgid "Jan."
+msgstr "Sau"
+
+msgid "Japan"
+msgstr "Japonija"
+
+msgid "Jul."
+msgstr "Lie"
+
+msgid "Jul"
+msgstr "liepos"
+
+msgid "Jun."
+msgstr "Bir"
+
+msgid "Jun"
+msgstr "birželio"
+
+msgid "Kazakhstan"
+msgstr "Kazachstanas"
+
+msgid "Kernel Modules Manager"
+msgstr "Branduolio modulių tvarkyklės"
+
+msgid "Kernel Version:"
+msgstr "Branduolio versija:"
+
+msgid "Korea"
+msgstr "Korėja"
+
+msgid "Last Upgrade:"
+msgstr "Vėliausias atnaujinimas:"
+
+msgid "Latvia"
+msgstr "Latvija"
+
+msgid "Lithuania"
+msgstr "Lietuva"
+
+msgid "Load/UnLoad"
+msgstr "Įjungti/Išjungti"
+
+msgid "Loaded %s.ko"
+msgstr "Įkeltas %s.ko"
+
+msgid "LsMod"
+msgstr ""
+
+msgid "Luxembourg"
+msgstr "Liuksemburgas"
+
+msgid "Macedonia"
+msgstr "Makedonija"
+
+msgid "Madagascar"
+msgstr "Madagaskaras"
+
+msgid "Make swap"
+msgstr "Mainų atmintis"
+
+msgid "Make swap on %s (128MB)"
+msgstr "Sukurti mainų atmintį %s (128MB)"
+
+msgid "Make swap on %s (256MB)"
+msgstr "Sukurti mainų atmintį %s (256MB)"
+
+msgid "Make swap on %s (512MB)"
+msgstr "Sukurti mainų atmintį %s (512MB)"
+
+msgid "Malaysia"
+msgstr "Malaizija"
+
+msgid "Manage BusyBox-Cron service"
+msgstr "Tvarkyti BusyBox-Cron tarnybą"
+
+msgid "Manage Dropbear SSH service"
+msgstr "Tvarkyti Dropbear SSH tarnybą"
+
+msgid "Manage Ftp service"
+msgstr "Tvarkyti FTP tarnybą"
+
+msgid "Manage Internet superserver (inetd)"
+msgstr "Tvarkyti interneto superserverį (inetd)"
+
+msgid "Manage Networking service"
+msgstr "Tvarkyti tinklo tarnybą"
+
+msgid "Manage Samba service"
+msgstr "Tvarkyti Samba tarnybą"
+
+msgid "Manage Swap"
+msgstr "Tvarkyti mainų failą"
+
+msgid "Manage Swap on %s"
+msgstr "Tvarkyti mainų failą %s"
+
+msgid "Manage Syslog/klogd service"
+msgstr "Tvarkyti syslog/klogd tarnybą"
+
+msgid "Manage epg, ntp, unmount, script, info ..."
+msgstr "Tvarkyti EPG, NTP, atjungimus, scenarijus, informacijas..."
+
+msgid "Manual"
+msgstr "Rankinis"
+
+msgid "Manual Installer/Uninstaller"
+msgstr "Rankinis įdiegimas/išdiegimas"
+
+msgid "Mar."
+msgstr "Kov"
+
+msgid "May"
+msgstr "gegužės"
+
+msgid "Memory:"
+msgstr "Atmintis:"
+
+msgid "Mexico"
+msgstr "Meksika"
+
+msgid "MgCamd Restarted"
+msgstr "MgCamd paleistas iš naujo"
+
+msgid "Min"
+msgstr "min."
+
+msgid "Mo"
+msgstr "Pr"
+
+msgid "Moldova"
+msgstr "Moldavija"
+
+msgid "Month"
+msgstr "Mėnuo"
+
+msgid "Name of keyfile"
+msgstr "Raktų failo pavadinimas"
+
+msgid "Netherlands"
+msgstr "Nyderlandai"
+
+msgid "New Zealand"
+msgstr "Naujoji Zelandija"
+
+msgid "Norway"
+msgstr "Norvegija"
+
+msgid "Not Active"
+msgstr "Neaktyvus"
+
+msgid "Not Installed"
+msgstr "Neįdiegta"
+
+msgid "Nov."
+msgstr "Lap"
+
+msgid "NtpTime Updater"
+msgstr "NTP laiko atnaujinimas"
+
+msgid "Oct."
+msgstr "Spl"
+
+msgid "Pakistan"
+msgstr "Pakistanas"
+
+msgid "Panama"
+msgstr "Panama"
+
+msgid "Patch enigma2.sh (need restart enigma2)"
+msgstr "Perdiegti enigma2.sh (reikės enigma2 paleisti iš naujo)"
+
+msgid "Path to save keyfile"
+msgstr "Kelias raktų failui išsaugoti"
+
+msgid "Philippines"
+msgstr "Filipinai"
+
+msgid "Please wait, restarting %s"
+msgstr "Palaukite, %s paleidžiamas iš naujo"
+
+msgid "Please wait, starting %s"
+msgstr "Palaukite, paleidžiamas %s"
+
+msgid "Please wait, stoping softcam or cardserver"
+msgstr "Palaukite, stabdomas emuliatorius, arba kardserveris"
+
+msgid "Poland"
+msgstr "Lenkija"
+
+msgid "Port(s) (single  xxxxx or range xxxxx:xxxxx)"
+msgstr "Prievadas(ai) (vienas xxxxx, intervalas xxxxx:xxxxx)"
+
+msgid "Portugal"
+msgstr "Portugalija"
+
+msgid "ReStart"
+msgstr "Paleisti iš naujo"
+
+msgid "ReStart Both"
+msgstr "Paleisti iš naujo abu"
+
+msgid "Reload epg.dat"
+msgstr "Įkelti epg.dat iš naujo"
+
+msgid "Remove All"
+msgstr "Pašalinti viską"
+
+msgid "Remove swap"
+msgstr "Naikinti mainų failą"
+
+msgid "Remove swap on %s (%s)"
+msgstr "Naikinti mainų failą iš %s (%s)"
+
+msgid "Remove tabs"
+msgstr "Pašalinti skirtukus"
+
+msgid "Removed %s"
+msgstr "%s pašalintas"
+
+msgid "Removed All Crashlog Files"
+msgstr "Pašalinti visi lūžių žurnalai"
+
+msgid "Restart GUI"
+msgstr "Paleisti grafinę aplinką iš naujo"
+
+msgid "Restart MgCamd"
+msgstr "Paleisti MgCamd iš naujo"
+
+msgid "Restart Softcam"
+msgstr "Paleisti emuliatorių iš naujo"
+
+msgid "Restarting %s service"
+msgstr "Tarnyba %s paleidžiama iš naujo"
+
+msgid "Restarting ..."
+msgstr "Paleidžiama iš naujo..."
+
+msgid "Restore epg.dat"
+msgstr "Atkurti epg.dat"
+
+msgid "Romania"
+msgstr "Rumunija"
+
+msgid "Russian Federation"
+msgstr "Rusijos Federacija"
+
+msgid "Sa"
+msgstr "Št"
+
+msgid "Save epg.dat"
+msgstr "Išsaugoti epg.dat"
+
+msgid "Saved"
+msgstr "Išsaugota"
+
+msgid "Script Executer"
+msgstr "Scenarijų vykdytojas"
+
+msgid "Scripts"
+msgstr "Scenarijai"
+
+msgid "Select EPG language"
+msgstr "EPG kalbos pasirinkimas"
+
+msgid "Select SoftCam or CardServer: - %s"
+msgstr "Pasirinkite emuliatorių, arba kardserverį: - %s"
+
+msgid "Select install files"
+msgstr "Pasirinkite failus įdiegti"
+
+msgid "Select path to save epg.dat"
+msgstr "Pasirinkite kelią, kur išsaugoti epg.dat"
+
+msgid "Sep."
+msgstr "Rgs"
+
+msgid "Server (ip or name)"
+msgstr "Serveris (IP arba pavadinimas)"
+
+msgid "Service Manager"
+msgstr "Paslaugų tvarkymas"
+
+msgid "Service Tools"
+msgstr "Paslaugų įrankiai"
+
+msgid "Set Transponder time update"
+msgstr "Atnaujinti laiką iš transponderio"
+
+msgid "Set choice server mode"
+msgstr "Serverio pasirinkimo būdas"
+
+msgid "Set manual ntp server address"
+msgstr "Savas NTP serverio adresas"
+
+msgid "Set script path"
+msgstr "Kelias iki scenarijų"
+
+msgid "Set time to update"
+msgstr "Atnaujinimų periodiškumas"
+
+msgid "Set your country"
+msgstr "Nurodykite savo šalį"
+
+msgid "Show E-CrashLog viewr in ExtensionMenu"
+msgstr "Rodyti E-lūžių žurnalus tarp plėtinių meniu"
+
+msgid "Show E-Installer in ExtensionMenu"
+msgstr "Rodyti E-diegėją tarp plėtinių meniu"
+
+msgid "Show E-NewCamd.list switcher in ExtensionMenu"
+msgstr "Rodyti E-newcamd.list perjungimą tarp plėtinių meniu"
+
+msgid "Show E-Panel in ExtensionMenu"
+msgstr "Rodyti E-Panel tarp plėtinių meniu"
+
+msgid "Show E-Panel in MainMenu"
+msgstr "Rodyti E-Panel pagrindiniame meniu"
+
+msgid "Show E-Script Executter in ExtensionMenu"
+msgstr "Rodyti E-scenarijų vykdytoją tarp plėtinių meniu"
+
+msgid "Show E-SoftCam manager in ExtensionMenu"
+msgstr "Rodyti E-emuliatorius tarp plėtinių meniu"
+
+msgid "Show E-Usb Unmount in ExtensionMenu"
+msgstr "Rodyti E-USB atjungimą tarp plėtinių meniu"
+
+msgid "Show E-Wicardd.conf switcher in ExtensionMenu"
+msgstr "Rodyti E-wicardd.conf perjungimą tarp plėtinių meniu"
+
+msgid "Show PluginBrowser in E-Panel MainMenu"
+msgstr "Rodyti įskiepių naršyklę E-Panel pagrindiniame meniu"
+
+msgid "Show reload epg.dat in ExtensionMenu"
+msgstr "Rodyti epg.dat įkėlimą iš naujo tarp plėtinių meniu"
+
+msgid "Simple Cardserver"
+msgstr "Kardserverių valdymas"
+
+msgid "Simple Softcam"
+msgstr "Emuliatorių valdymas"
+
+msgid "Simple Softcam/Cardserver"
+msgstr "Emuliatoriai ir kardserveriai"
+
+msgid "Singapore"
+msgstr "Singapūras"
+
+msgid "Slovakia"
+msgstr "Slovakija"
+
+msgid "Slovenia"
+msgstr "Slovėnija"
+
+msgid "SoftCam.Key Updater"
+msgstr "SoftCam.Key įkėlėjas"
+
+msgid "SoftCam/CardServer Panel"
+msgstr "Emuliatorių ir kardserverių valdymas"
+
+msgid "Softcam"
+msgstr "Emuliatorius"
+
+msgid "Softcam Restarted"
+msgstr "Emuliatorius paleistas iš naujo"
+
+msgid "Softcam:"
+msgstr "Emuliatorius:"
+
+msgid "Sorry, the EPG download error"
+msgstr "EPG parsisiuntimo klaida"
+
+msgid "South Africa"
+msgstr "Pietų Afrika"
+
+msgid "Spain"
+msgstr "Ispanija"
+
+msgid "Start"
+msgstr "Pradėti"
+
+msgid "Start Samba"
+msgstr "Paleisti Samba"
+
+msgid "Start scripts from /usr/script"
+msgstr "Paleisti scenarijus iš /usr/script"
+
+msgid "Start, Stop, Create, Remove Swap file"
+msgstr "Paleisti, stabdyti, kurti, šalinti mainų failą"
+
+msgid "Start, Stop, Restart Cardserver"
+msgstr "Kardserverį paleisti, stabdyti, paleisti iš naujo"
+
+msgid "Start, Stop, Restart Sofcam"
+msgstr "Emuliatorių paleisti, stabdyti, paleisti iš naujo"
+
+msgid "Start, Stop, Restart Sofcam/Cardserver"
+msgstr "Emuliatorių/kardserverį paleisti, stabdyti, paleisti iš naujo"
+
+msgid "Start, Stop, Restart system services"
+msgstr "Sistemos tarnybas paleisti, stabdyti, paleisti iš naujo"
+
+msgid "StartUp synchronization"
+msgstr "Sinchronizacija paleidimo metu"
+
+msgid "Starting %s service"
+msgstr "%s tarnyba paleidžiama"
+
+msgid "Status:"
+msgstr "Būsena:"
+
+msgid "Stoping %s service"
+msgstr "%s tarnyba stabdoma"
+
+msgid "Su"
+msgstr "Sk"
+
+msgid "Swap file created"
+msgstr "Mainų failas sukurtas"
+
+msgid "Swap file removed"
+msgstr "Mainų failas pašalintas"
+
+msgid "Swap file started"
+msgstr "Mainų failas dirba"
+
+msgid "Swap file stoped"
+msgstr "Mainų failas sustabdytas"
+
+msgid "Swap off"
+msgstr "Mainų failas išjungtas"
+
+msgid "Swap on"
+msgstr "Mainų failas įjungtas"
+
+msgid "Swap on %s off (%s)"
+msgstr "Mainų failas %s išjungtas (%s)"
+
+msgid "Swap on %s on (%s)"
+msgstr "Mainų failas %s įjungtas (%s)"
+
+msgid "Swap on USB/HDD"
+msgstr "Mainų failas USB/HDD"
+
+msgid "Swap:"
+msgstr "Mainų atmintis:"
+
+msgid "Sweden"
+msgstr "Švedija"
+
+msgid "Switch newcamd.list with remote conrol"
+msgstr "Perjungti newcamd.list nuotolinio valdymo pultu"
+
+msgid "Switch wicardd.conf with remote conrol"
+msgstr "Perjungti wicardd.conf nuotolinio valdymo pultu"
+
+msgid "Switzerland"
+msgstr "Šveicarija"
+
+msgid "Azerbaidjan"
+msgstr "Azerbaidžanas"
+
+msgid "Synchronization NTP"
+msgstr "NTP sinchronizacija"
+
+msgid "Synchronization NTP time"
+msgstr "Sinchronizacija su NTP"
+
+msgid "Synchronization Now"
+msgstr "Sinchronizuojama"
+
+msgid "Synchronization activated"
+msgstr "Sinchronizacija įjungta"
+
+msgid "Synchronization ntp every 30 min,60 min,120 min, 240 min and Now"
+msgstr "NTP sinchronizacija kas 30 min., 60 min., 120 min., 240 min ir dabar"
+
+msgid "Synchronized"
+msgstr "Sinchronizuota"
+
+msgid "System Info"
+msgstr "Informacija apie sistemą"
+
+msgid "System Tools"
+msgstr "Sistemos įrankiai"
+
+msgid "System info"
+msgstr "Sistemos informacija"
+
+msgid "Taiwan"
+msgstr "Taivanas"
+
+msgid "Tanzania"
+msgstr "Tanzanija"
+
+msgid "Th"
+msgstr "Kt"
+
+msgid "Thailand"
+msgstr "Tailandas"
+
+msgid "Tools"
+msgstr "Įrankiai"
+
+msgid "Total: %s Kb  Free: %s Kb"
+msgstr "Iš viso: %s Kb  Laisvų: %s Kb"
+
+msgid "Tu"
+msgstr "An"
+
+msgid "Turkey"
+msgstr "Turkija"
+
+msgid "Ukraine"
+msgstr "Ukraina"
+
+msgid "UnInstall"
+msgstr "Išdiegti"
+
+msgid "UnInstall Ipk"
+msgstr "Išdiegti IPK"
+
+msgid "UnLoaded %s.ko"
+msgstr "%s.ko neįkeltas"
+
+msgid "UnMount"
+msgstr "Atjungti"
+
+msgid "UnMount USB"
+msgstr "Atjungti USB"
+
+msgid "UnSuccessfull"
+msgstr "Nesėkmingai"
+
+msgid "United Arab Emirates"
+msgstr "Jungtiniai Arabų Emyratai"
+
+msgid "United Kingdom"
+msgstr "Jungtinė Karalystė"
+
+msgid "United States"
+msgstr "Jungtinės Valstijos"
+
+msgid "Unmount manager"
+msgstr "Pajungimų atjungimas"
+
+msgid "Unmount usb devices"
+msgstr "Atjungti USB laikmenas"
+
+msgid "Unmounted %s"
+msgstr "Atjungta %s"
+
+msgid "Unmounted %s Unsucessfull"
+msgstr "Atjungti %s nepavyko"
+
+msgid "Update Now"
+msgstr "Atnaujinti dabar"
+
+msgid "User Scripts"
+msgstr "Vartotojo scenarijai"
+
+msgid "Uzbekistan"
+msgstr "Uzbekistanas"
+
+msgid "Vietnam"
+msgstr "Vietnamas"
+
+msgid "View"
+msgstr "Peržiūra"
+
+msgid "View System Settings (/etc/enigma2/settings)"
+msgstr "Peržiūrėti sistemos nustatymus (/etc/enigma2/settings)"
+
+msgid "View or Remove Crashlog files"
+msgstr "Peržiūrėti, arba šalinti lūžių žurnalus"
+
+msgid "View settings"
+msgstr "Peržiūrėti nustatymus"
+
+msgid "We"
+msgstr "Tr"
+
+msgid "bad day %s"
+msgstr "neteisinga diena %s"
+
+msgid "bad format"
+msgstr "neteisingas formatas"
+
+msgid "bad hour %s"
+msgstr "neteisinga valanda %s"
+
+msgid "bad minute %s"
+msgstr "neteisinga minutė %s"
+
+msgid "bad month %s"
+msgstr "neteisingas mėnuo %s"
+
+msgid "bad year %s"
+msgstr "neteisingi metai %s"
+
+msgid "clear /tmp"
+msgstr "Išvalyti /tmp"
+
+msgid "config menu and extentionsmenu for E-Panel items"
+msgstr "E-Panel elementų konfigūracijos ir plėtinių meniu"
+
+msgid "configuration is saved"
+msgstr "konfigūracija išsaugota"
+
+msgid "dowmload extensions from feed"
+msgstr "parsisiųsti plėtinius"
+
+msgid "download extensions"
+msgstr "parsisiųsti plėtinius"
+
+msgid "download from: %s"
+msgstr "parsisiųsti iš: %s"
+
+msgid "ecm.info Viewer"
+msgstr "ecm.info peržiūra"
+
+msgid "ecm.info file viewer"
+msgstr "ecm.info peržiūra"
+
+msgid "ecm.info viewer"
+msgstr "ecm.info peržiūra"
+
+msgid "epg.dat reloaded"
+msgstr "epg.dat įkeltas iš naujo"
+
+msgid "epg.dat restored"
+msgstr "epg.dat atkurtas"
+
+msgid "epg.dat saved"
+msgstr "epg.dat išsaugotas"
+
+msgid "install & forced install ipk, bh.tgz, tar.gz, nab.tgz from /tmp"
+msgstr "Įdiegti ir priverstinai įdiegti iš /tmp IPK, bh.tgz, tar.gz, nab.tgz"
+
+msgid "install & remove ipk, tar.gz, bh.tgz packets"
+msgstr "įdiegti ir pašalinti IPK, tar.gz, bh.tgz paketus"
+
+msgid "install extensions"
+msgstr "Įdiegti plėtinius"
+
+msgid "install extensions from feed"
+msgstr "Įdiegti plėtinius"
+
+msgid "install/uninstall local .ipk & .tar.gz files from /tmp"
+msgstr "įdiegti ir pašalinti vietinius .ipk & .tar.gz failus iš /tmp"
+
+msgid "ipk packets remover"
+msgstr "IPK paketų šalinimas"
+
+msgid "ipk packets, bh.tgz, tar.gz, nab.tgz installer"
+msgstr "IPK paketai, bh.tgz, tar.gz, nab.tgz diegėjas"
+
+msgid "kernel modules manager, manage swap, ftp, samba, unmount USB"
+msgstr "Branduolio modulių, mainų failo, FTP, Samba tvarkymas, USB atjungimas"
+
+msgid "load & unload kernel modules"
+msgstr "įkelti ir iškelti branduolio modulius"
+
+msgid "login"
+msgstr "Prisijungti"
+
+msgid "new time not available"
+msgstr "Naujas laikas negalimas"
+
+msgid "newcamd.list Editor"
+msgstr "newcamd.list redaktorius"
+
+msgid "newcamd.list Switcher"
+msgstr "newcamd.list perjungimas"
+
+msgid "newcamd.list Switcher: - %s"
+msgstr "newcamd.list perjungimas: - %s"
+
+msgid "newcamd.list editor"
+msgstr "newcamd.list redaktorius"
+
+msgid "press OK to enable/disable server"
+msgstr "Kad įjungti/išjungti serverį, spauskite 'OK'"
+
+msgid "quick newcamd.list editor"
+msgstr "Greitas newcamd.list redaktorius"
+
+msgid "reFresh"
+msgstr "Atnaujinti"
+
+msgid "reload epg.dat failed"
+msgstr "Įkelti epg.dat nepavyko"
+
+msgid "remove & advanced remove ipk packets"
+msgstr "IPK paketų išsamus šalinimas"
+
+msgid "remove *.ipk & *.tar.gz & *.bh.tgz & *.nab.tgz from /tmp"
+msgstr "šalinti *.ipk & *.tar.gz & *.bh.tgz & *.nab.tgz iš /tmp"
+
+msgid "remove *.ipk & *.tar.gz from /tmp"
+msgstr "šalinti *.ipk & *.tar.gz iš /tmp"
+
+msgid "running"
+msgstr "veikia"
+
+msgid "server: %s"
+msgstr "Serveris: %s"
+
+msgid "simple tools for Pli image"
+msgstr "paprasti OpenPLi įrankiai"
+
+msgid "size: %s  %s"
+msgstr "Dydis: %s  %s"
+
+msgid "stopping"
+msgstr "stabdoma"
+
+msgid "system info (free, dh -f, hosts)"
+msgstr "Sistemos informacija (free, dh -f, hosts)"
+
+msgid "update Softcam.key from internet"
+msgstr "atnaujinti SoftCam.Key iš interneto"
+
+msgid "update time from internet"
+msgstr "atnaujinti laiką iš interneto"
+
+msgid "view & remove crashlog files"
+msgstr "peržiūrėti ir pašalinti lūžių žurnalus"
+
+msgid "view system settings"
+msgstr "peržiūrėti sistemos parametrus"
+
+msgid "SoftCam.Key server"
+msgstr "SoftCam.Key serveris"
+
+msgid "%s Switcher: - %s"
+msgstr "%s perjungimas: - %s"
+
+msgid "Mgcamd config switcher"
+msgstr "MgCamd konfigūratorius"
+
+msgid "Mgcamd configpath"
+msgstr "Kelias į MgCamd konfigūracijos failus"
+
+msgid "Mgcamd config filename"
+msgstr "MgCamd konfigūracijos failo pavadinimas"
+
+msgid "Wicardd config switcher"
+msgstr "Wicardd konfigūratorius"
+
+msgid "Wicardd configfile extention"
+msgstr "Wicardd konfigūracijos failo plėtinys"
+
+msgid "Oscam config switcher"
+msgstr "Oscam konfigūratorius"
+
+msgid "CCcam config switcher"
+msgstr "CCcam konfigūratorius"
+
+msgid "CCcam configpath"
+msgstr "Kelias į CCcam konfigūracijos failus"
+
+msgid "CCcam config filename"
+msgstr "CCcam konfigūracijos failo pavadinimas"
+
+msgid "CCcam configfile extention"
+msgstr "CCcam konfigūracijos failo plėtinys"
+
+msgid "Oscam configpath"
+msgstr "Kelias į Oscam konfigūracijos failus"
+
+msgid "Oscam config filename"
+msgstr "Oscam konfigūracijos failo pavadinimas"
+
+msgid "Oscam configfile extention"
+msgstr "Oscam konfigūracijos failo plėtinys"
+
+msgid "E-Oscam.conf switcher"
+msgstr "E-Oscam.conf konfigūratorius"
+
+msgid "E-CCcam.Cfg switcher"
+msgstr "E-CCcam.cfg konfigūratorius"
+
+msgid "Universal Switcher"
+msgstr "Universalus perjungiklis"
+
+msgid "switch config files mgcamd, oscam, wicardd, cccam with remote conrol"
+msgstr ""
+"perjungti MgCamd, Oscam, Wicardd, CCcam konfigūracijas nuotolinio valdymo "
+"pultu"
+
+msgid "Swap Manager"
+msgstr "Mainų failo vadovas"
+
+msgid "Switcher"
+msgstr "Perjungimas"
+
+msgid "E-EPG Downloader"
+msgstr "E-EPG parsiuntėjas"
+
+msgid "Show E-EPG Downloader in ExtensionMenu"
+msgstr "E-EPG parsiuntėją rodyti plėtinių meniu"
+
+msgid "Zram swap is on"
+msgstr "Zram atmintis įjungta"
+
+msgid "press Close for Exit"
+msgstr "Kad užverti, spauskite 'Uždaryti'"
+
+msgid "Update to plugin list"
+msgstr "Įskiepių sąrašo atnaujinimas"
+
+msgid "E-Installer: User directory on mount device"
+msgstr "E-diegėjas: vartotojo katalogas, pajungiant laikmeną"
+
+msgid "E-Installer: Selection mode"
+msgstr "E-diegėjas: pasirinkimo režimas"
+
+msgid "Multi files"
+msgstr "Daugiafailis"
+
+msgid "Single file"
+msgstr "Vieno failo"
+
+msgid "MultiSelect Mode"
+msgstr "Daugiafailis režimas"
+
+msgid "SingleSelect Mode"
+msgstr "Vieno failo režimas"
+
+msgid "Failure..."
+msgstr "Klaida..."
+
+msgid "Please wait, downloading epg.dat"
+msgstr "Palaukite, parsiunčiamas epg.dat"
+
+msgid "Select source epg.dat"
+msgstr "Pasirinkite epg.dat šaltinį"
+
+msgid "Crashlog viewer path"
+msgstr "Kelias iki lūžių žurnalų peržiūros"
+
+msgid "Add tabs"
+msgstr "Pridėti"
+
+msgid "Please wait"
+msgstr "Palaukite"
+
+msgid "E-script path"
+msgstr "Kelias iki E-scenarijų"
+
+msgid "set of utilities for enigma2"
+msgstr "enigma2 įrankių rinkinys"
+
+msgid "Donwloading epg.dat from %s"
+msgstr "Parsiunčiamas epg.dat iš %s"
+
+msgid "Stoping..."
+msgstr "Stabdoma..."
+
+msgid "Removing startscript..."
+msgstr "Šalinamas paleidimo scenarijus..."
+
+msgid "Removing ecm.info..."
+msgstr "Pašalinama ecm.info..."
+
+msgid "Adding startscript..."
+msgstr "Pridedamas paleidimo scenarijus..."
+
+msgid "Starting..."
+msgstr "Paleidžiama..."
+
+msgid "Restarting..."
+msgstr "Paleidžiama iš naujo..."
+
+msgid "Creating None script..."
+msgstr "Kuriamas None scenarijus..."
+
+msgid "synchronizing..."
+msgstr "sinchronizuojama..."
+
+msgid "Hosts editor"
+msgstr "/etc/hosts redaktorius"
+
+msgid "add/remove records in /etc/hosts"
+msgstr "Pridėti ir pašalinti /etc/hosts įrašus"
+
+msgid "Add record"
+msgstr "Pridėti įrašą"
+
+msgid "Remove record"
+msgstr "Pašalinti įrašą"
+
+msgid "ip address"
+msgstr "IP adresas"
+
+msgid "host name"
+msgstr "Vardas tinkle"
+
+msgid "alias"
+msgstr "Sąsaja"
+
+msgid "add record"
+msgstr "pridėti įrašą"
+
+msgid "/etc/hosts editor"
+msgstr "/etc/hosts redaktorius"
+
+msgid "Success..."
+msgstr "Sėkmingai..."
+
+msgid "Restore EPG with enigma2 start"
+msgstr "Atkurti EPG paleidžiant enigma2"
+
+msgid "Manage Udpxy service"
+msgstr "Tvarkyti Udpxy tarnybą"
+
+msgid "Manage Livestreamer service"
+msgstr "Valdyti Livestreamer paslaugą"
+
+msgid "Creating..."
+msgstr "Kuriama..."
+
+msgid "%s loaded in memory"
+msgstr "%s įkelta į atmintį"
+
+msgid "not loaded modules"
+msgstr "neįkelti moduliai"
+
+msgid "System Tools 2"
+msgstr "Sistemos įrankiai 2"
+
+msgid "Cache Flush"
+msgstr "Podėlio valymas"
+
+msgid "Flush Now"
+msgstr "Valyti dabar"
+
+msgid "Autotime cache flush"
+msgstr "Laikas automatiniam podėlio valymui"
+
+msgid "Set cache flush mode"
+msgstr "Nustatyti podėlio valymo režimą"
+
+msgid "Buffers: %s Kb  Cached: %s Kb"
+msgstr "Talpyklos: %s Kb  Podėlyje: %s Kb"
+
+msgid "Cache flushed"
+msgstr "Podėlis išvalytas"
+
+msgid "free pagecache, dentries and inodes"
+msgstr "Atlaisvinti mainų failą, dentry ir inode"
+
+msgid "free pagecache"
+msgstr "Atlaisvinti mainų failą"
+
+msgid "free dentries and inodes"
+msgstr "Atlaisvinti dentry ir inode"
+
+msgid "Show E-Flash Cache in ExtensionMenu"
+msgstr "Rodyti E-podėlio valymas tarp plėtinių meniu"
+
+msgid "E-Flush cache"
+msgstr "E-podėlio valymas"
+
+msgid "drop system cache"
+msgstr "ištuštinti sistemos podėlį"
+
+msgid "Total: %s Kb  Free: %s Kb (%s %%)"
+msgstr "Iš viso: %s Kb  Laisva: %s Kb (%s %%)"
+
+msgid "%s, %s Mhz (%d %s)"
+msgstr ""
+
+msgid "Processor:"
+msgstr "Procesorius:"
+
+msgid "core"
+msgstr "branduolys"
+
+msgid "cores"
+msgstr "branduoliai"
+
+msgid "Dynamic DNS"
+msgstr "Dinaminis DNS"
+
+msgid "synchronization settings DDNS"
+msgstr "DDNS sinchronizacijos parametrai"
+
+msgid "Select DDNS server"
+msgstr "Pasirinkti DDNS serverį"
+
+msgid "Username"
+msgstr "Vartotojo vardas"
+
+msgid "Hostname"
+msgstr "Vardas tinkle"
+
+msgid "Update Time"
+msgstr "Atnaujinimo laikas"
+
+msgid "DNS updating..."
+msgstr "DNS atnaujinimas..."
+
+msgid "cache flush, DDNS sync"
+msgstr "podėlio valymas, DDNS sinchronizacija"
+
+msgid "E-Panel Universal Switcher"
+msgstr "E-Panel universalus perjungiklis"
+
+msgid "update script not found..."
+msgstr "atnaujinimo scenarijaus nerasta..."
+
+msgid "Run"
+msgstr "Vykdyti"
+
+msgid "ShadowRun"
+msgstr "Vykdyti fone"
+
+msgid "the script is running in the background..."
+msgstr "scenarijus veikia fone..."
+
+msgid "IP address:"
+msgstr "IP adresas:"
+
+msgid "EPG from %s"
+msgstr "EPG iš %s"
+
+msgid "Set EPG filename"
+msgstr "Nustatyti EPG failo pavadinimą"
+
+msgid "Download url"
+msgstr "Parsisiuntimo internetinis adresas"
+
+msgid "Check epg.dat exists"
+msgstr "Patikrinti epg.dat buvimą"
+
+msgid "Donwloading epg.dat.gz"
+msgstr "Parsiunčiamas epg.dat.gz"
+
+msgid "Unzipping epg.dat.gz"
+msgstr "Išskleidžiamas epg.dat.gz"
+
+msgid "Download epg.dat successful"
+msgstr "epg.dat parsiųstas sėkmingai"
+
+msgid "Donwloading epg.dat.gz error"
+msgstr "epg.dat parsiuntimo klaida"
+
+msgid "Periodicity checks"
+msgstr "Tikrinimų periodiškumas"
+
+msgid "Show status message"
+msgstr "Rodyti būsenos pranešimą"
+
+msgid "last epg.dat updated - not yet"
+msgstr "Paskutinis epg.dat atnaujinimas - dar nėra"
+
+msgid "last epg.dat updated - %02d:%02d:%d %02d:%02d:%02d"
+msgstr "Paskutinis epg.dat atnaujinimas - %02d:%02d:%d %02d:%02d:%02d"
+
+msgid "Set autoupdate epg.dat"
+msgstr "Nustatyti epg.dat autoatnaujinimą"
+
+msgid "Show E-Info in ExtensionMenu"
+msgstr "Rodyti E-info tarp plėtinių meniu"
+
+msgid "E-Info"
+msgstr "E-info"
+
+msgid "update error epg.dat - %02d:%02d:%d %02d:%02d:%02d"
+msgstr "epg.dat atnaujinimo klaida - %02d:%02d:%d %02d:%02d:%02d"
+
+msgid "onid Man"
+msgstr "onid valdymas"
+
+msgid "blacklist.onid Manager - %s"
+msgstr "blacklist.onid vadovas - %s"
+
+msgid "Add onid"
+msgstr "Pridėti onid"
+
+msgid "Remove onid"
+msgstr "Pašalinti onid"
+
+msgid "Enter a value in hexadecimal format"
+msgstr "Įveskite reikšmę šešioliktainiu formatu"
+
+msgid "add onid - %s"
+msgstr "pridėti onid - %s"
+
+msgid "value saved"
+msgstr "reikšmė išsaugota"
+
+msgid "value is not hex"
+msgstr "reikšmė nešešioliktainė"
+
+msgid "configuration default"
+msgstr "numatytoji konfigūracija"
+
+msgid "Restart"
+msgstr "Paleisti iš naujo"
+
+msgid "Add"
+msgstr "Pridėti"
+
+msgid "Detected NIMs:"
+msgstr "Aptikti NIM:"
+
+msgid "Download"
+msgstr "Parsisiųsti"
+
+msgid "Install"
+msgstr "Įdiegti"
+
+msgid "Password"
+msgstr "Slaptažodis"
+
+msgid "Plugin Browser"
+msgstr "Įskiepių naršyklė"
+
+msgid "Reboot"
+msgstr "Paleisti iš naujo"
+
+msgid "Reload"
+msgstr "Įkelti iš naujo"
+
+msgid "Remove"
+msgstr "Pašalinti"
+
+msgid "Stop"
+msgstr "Stabdyti"
+
+msgid "manual"
+msgstr "rankinis"
+
+msgid "unavailable"
+msgstr "neprieinama"
+
+msgid "undefined"
+msgstr "neapibrėžtas"
+
+msgid "unknown"
+msgstr "nežinomas"
+
+msgid "Download EPG from  linux-sat.tv (exUSSR)"
+msgstr "Parsisiųsti EPG iš linux-sat.tv (buv.USSS)"
+
+msgid "EPG from linux-sat.tv/piconload.ru (exUSSR)"
+msgstr "EPG iš linux-sat.tv/piconload.ru (buv.USSR)"
+
+msgid "Manage UdPrxy service"
+msgstr "Valdyti UdPrxy paslaugą"
